@@ -1,12 +1,12 @@
 {
-    "name": "Remote Control with Joystick:bit Cutebot Sender",
+    "name": "Yahboom Remote Control with Joystick:bit Cutebot Sender",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "cutebot": "github:elecfreaks/pxt-cutebot#v6.0.6",
-        "joystickbit": "github:tinkertanker/pxt-joystickbit#v1.0.1"
+        "joystickbit": "github:tinkertanker/pxt-joystickbit#v1.0.1",
+        "GHBit": "github:lzty634158/GHBit#bbbe5f812211ee7b1576bbb046b981339dca5bbc"
     },
     "files": [
         "main.blocks",
